@@ -1,0 +1,6 @@
+clean
+delete
+drink
+run
+kill
+sleep
